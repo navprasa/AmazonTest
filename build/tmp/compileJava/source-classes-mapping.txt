@@ -1,2 +1,14 @@
-ShoppingSearch.java
- ShoppingSearch
+com/amazon/pages/WebPage.java
+ com.amazon.pages.WebPage
+components/impl/SearchResultItemComponents.java
+ components.impl.SearchResultItemComponents
+com/amazon/pages/HomePage.java
+ com.amazon.pages.HomePage
+components/impl/SearchComponent.java
+ components.impl.SearchComponent
+components/WebComponent.java
+ components.WebComponent
+com/amazon/pages/SearchResultsPage.java
+ com.amazon.pages.SearchResultsPage
+Runner.java
+ Runner
